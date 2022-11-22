@@ -1,0 +1,15 @@
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/Carpark.csproj.AssemblyReference.cache
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/Carpark.GeneratedMSBuildEditorConfig.editorconfig
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/Carpark.AssemblyInfoInputs.cache
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/Carpark.AssemblyInfo.cs
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/Carpark.csproj.CoreCompileInputs.cache
+/home/yaroslav/RiderProjects/Carpark/Carpark/bin/Debug/net6.0/Carpark
+/home/yaroslav/RiderProjects/Carpark/Carpark/bin/Debug/net6.0/Carpark.deps.json
+/home/yaroslav/RiderProjects/Carpark/Carpark/bin/Debug/net6.0/Carpark.runtimeconfig.json
+/home/yaroslav/RiderProjects/Carpark/Carpark/bin/Debug/net6.0/Carpark.dll
+/home/yaroslav/RiderProjects/Carpark/Carpark/bin/Debug/net6.0/Carpark.pdb
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/Carpark.dll
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/refint/Carpark.dll
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/Carpark.pdb
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/Carpark.genruntimeconfig.cache
+/home/yaroslav/RiderProjects/Carpark/Carpark/obj/Debug/net6.0/ref/Carpark.dll
