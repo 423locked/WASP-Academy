@@ -1,0 +1,15 @@
+/home/yaroslav/RiderProjects/WASP/Project/bin/Debug/net6.0/Project
+/home/yaroslav/RiderProjects/WASP/Project/bin/Debug/net6.0/Project.deps.json
+/home/yaroslav/RiderProjects/WASP/Project/bin/Debug/net6.0/Project.runtimeconfig.json
+/home/yaroslav/RiderProjects/WASP/Project/bin/Debug/net6.0/Project.dll
+/home/yaroslav/RiderProjects/WASP/Project/bin/Debug/net6.0/Project.pdb
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/Project.csproj.AssemblyReference.cache
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/Project.AssemblyInfoInputs.cache
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/Project.AssemblyInfo.cs
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/Project.csproj.CoreCompileInputs.cache
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/Project.dll
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/refint/Project.dll
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/Project.pdb
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/Project.genruntimeconfig.cache
+/home/yaroslav/RiderProjects/WASP/Project/obj/Debug/net6.0/ref/Project.dll
