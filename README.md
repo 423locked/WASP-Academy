@@ -9,6 +9,7 @@
 ------------------|--------|--------
 1, 2, 3          | 🟡    | <a href="https://github.com/423locked/WASP-Academy/tree/master/Project/Basics">Перейти</a>
 Автопарк          | 🟡    | <a href="https://github.com/423locked/WASP-Academy/tree/master/Project/Carpark">Перейти</a>
+Магазин Дисков   | 🟡    | <a href="https://github.com/423locked/WASP-Academy/tree/master/Project/DiskStore">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
